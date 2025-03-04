@@ -2,3 +2,4 @@ base
 .env
 __pycache__
 .qodo
+data/*
